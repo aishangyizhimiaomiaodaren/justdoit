@@ -12,6 +12,7 @@ public class Commit {
 	
 	public static void main(String[] args) {
 		System.out.println("what you say??");
-		System.out.println("测试从远程下载项目");		
+		System.out.println("测试从远程下载项目");
+		System.out.println("项目已经修改了");		
 	}
 }
